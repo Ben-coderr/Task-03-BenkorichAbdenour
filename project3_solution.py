@@ -22,11 +22,11 @@
     4. TRANSLATE      → Inverse transform → Business Personas
 
   Architectural Constraints:
-    ✅  StandardScaler BEFORE PCA (equal mathematical voting power)
-    ✅  PCA retains ≥95% cumulative explained variance
-    ✅  K validated by TWO diagnostic gatekeepers: Elbow + Silhouette
-    ✅  Centroids reverse-engineered: C_original = (C_scaled ⊙ σ) + μ
-    ✅  Clusters translated into Strategic Persona Matrix
+      StandardScaler BEFORE PCA (equal mathematical voting power)
+      PCA retains ≥95% cumulative explained variance
+      K validated by TWO diagnostic gatekeepers: Elbow + Silhouette
+      Centroids reverse-engineered: C_original = (C_scaled ⊙ σ) + μ
+      Clusters translated into Strategic Persona Matrix
 
 ================================================================================
 """

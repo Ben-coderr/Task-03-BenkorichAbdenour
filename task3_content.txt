@@ -1,0 +1,68 @@
+Data Science
+Project 3
+
+Industrial Training Kit
+Batch: 2026 | Powered by DecodeLabs
+
+WELCOME TO THE TEAM!
+Step into the role of a Data Scientist at
+DecodeLabs. Project 3 is your technical
+mastery phase: Unsupervised Learning
+(Customer Segmentation). This track isn't about
+"just grouping numbers"—it's about Discovering
+Hidden Value. Before you drive business
+strategy, you must master the art of using
+distance-based algorithms to find
+mathematical groupings in unlabeled retail
+data, applying Principal Component Analysis
+(PCA) to reduce dimensionality, and translating
+raw clusters into actionable business personas.
+By completing this milestone, you are proving
+you can uncover hidden market insights
+through pure statistical logic. Let’s design a
+clustering model that segments customers with
+absolute clarity.
+
+🚀
+
+Project 3:
+Unsupervised
+Learning (Customer
+Segmentation)
+Goal: Use distance-based algorithms to
+discover hidden mathematical groupings
+in unlabeled retail data.
+Key Requirements:
+Apply Principal Component Analysis
+(PCA) to reduce 20+ columns of data
+into 2 or 3 dimensions.
+Use the "Elbow Method" and "Silhouette
+Score" to mathematically prove the
+optimal number of K-Means clusters.
+Translate the resulting clusters into
+actionable business "Personas."
+Key Skills: Dimensionality reduction
+(PCA), K-Means clustering, distance
+metrics, business intelligence
+translation.
+
+CONCLUSION
+The absolute best way to master Unsupervised Learning is
+through hands-on exploration, not just theory. Don't just aim
+to complete these projects; take them one by one,
+experiment with unique solutions—like mathematically
+proving your optimal K-Means clusters using the Elbow
+Method and Silhouette Scores, or visualizing your reduced
+PCA components in a 3D scatter plot—and treat every "noisy
+data point" as a valuable learning opportunity. As you build
+these milestones at DecodeLabs, you are creating a realworld portfolio that showcases your business intelligence
+translation skills to future employers. Your journey to
+becoming a professional Data Scientist reaches a definitive
+peak right here, right now, with the very first customer
+persona you extract today.
+
+THANK YOU
+📞 +91 9236011887 ✉ decodelabs.tech@gmail.com
+🌎 www.decodelabs.tech 📍 GREATER LUCKNOW, INDIA
+
+

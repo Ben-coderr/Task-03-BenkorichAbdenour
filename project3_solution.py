@@ -82,8 +82,10 @@ print("─" * 80)
 print("  SECTION 1: Retail Customer Dataset")
 print("─" * 80)
 
-DATA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                         "customer_retail_data.csv")
+try:
+    DATA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "customer_retail_data.csv")
+except NameError:
+    DATA_PATH = os.path.join(os.getcwd(), "customer_retail_data.csv")
 
 
 def generate_retail_data(n_customers=2000, seed=42):
@@ -1087,8 +1089,10 @@ summary_df = pd.DataFrame(summary_data)
 print(f"\n{summary_df.to_string(index=False)}")
 
 # Save results
-results_path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                            "customer_segmentation_results.csv")
+try:
+    results_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "customer_segmentation_results.csv")
+except NameError:
+    results_path = os.path.join(os.getcwd(), "customer_segmentation_results.csv")
 df_features.to_csv(results_path, index=True)
 print(f"\n  ✓ Results saved to: customer_segmentation_results.csv")
 
